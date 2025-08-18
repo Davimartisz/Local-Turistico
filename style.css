@@ -1,0 +1,16 @@
+.viagem {
+  font-size: 16px;
+  color: #E1624F;
+  text-transform: uppercase;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.titulo {
+  font-size: 36px;
+  font-weight: bold;
+  font-family: 'Open Sans', sans-serif;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  letter-spacing: -3px;/* deixa as letras mais próximas */
+  transform: scaleX(0.95);
+  transform-origin: left;
+}
