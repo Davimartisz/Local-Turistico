@@ -1,6 +1,7 @@
 main {
   max-width: 1200px;
   margin: auto;
+  font-family: 'Open Sans', sans-serif;
 }
 
 body {
@@ -12,7 +13,6 @@ body {
   font-size: 16px;
   color: #E1624F;
   text-transform: uppercase;
-  font-family: 'Open Sans', sans-serif;
   
 
 }
@@ -20,7 +20,6 @@ body {
 .titulo {
   font-size: 36px;
   font-weight: bold;
-  font-family: 'Open Sans', sans-serif;
   letter-spacing: -3px;/* deixa as letras mais próximas */
   transform: scaleX(0.95);
   transform-origin: left;
@@ -46,7 +45,6 @@ body {
   font-size: 16px;
   color: #E1624F;
   text-transform: uppercase;
-  font-family: 'Open Sans', sans-serif;
   width: 255px;
   height: 22px;
 }
@@ -54,7 +52,6 @@ body {
 .descubra {
   font-size: 36px;
   font-weight: bold;
-  font-family: 'Open Sans', sans-serif;
   letter-spacing: -1px;/* deixa as letras mais próximas */
   transform: scaleX(0.95);
   transform-origin: left;
@@ -70,4 +67,83 @@ body {
   font-weight: normal;
   color: #333333;
   
+}
+
+p {
+  color: #333333;
+}
+
+.bom-para {
+ color:#1B1B1B;
+ font-weight: bold;
+}
+
+.historia1 {
+  color: #0C51A7;
+  font-weight: bold;
+}
+
+.historia2 {
+  color: #0C51A7;
+  font-weight: bold;
+}
+
+.bom-para2 {
+  color:#1B1B1B;
+ font-weight: bold;
+}
+
+.titulo1 {
+  font-size: 36px;
+  font-weight: bold;
+  letter-spacing: -1px;/* deixa as letras mais próximas */
+  transform: scaleX(0.95);
+  transform-origin: left;
+  margin-top: auto;
+  color: #1B1B1B;
+}
+
+.titulo2 {
+  font-size: 36px;
+  font-weight: bold;
+  letter-spacing: -1px;/* deixa as letras mais próximas */
+  transform: scaleX(0.95);
+  transform-origin: left;
+  margin-top: auto;
+  color: #1B1B1B;
+}
+
+.titulo3 {
+  font-size: 36px;
+  font-weight: bold;
+  letter-spacing: -1px;/* deixa as letras mais próximas */
+  transform: scaleX(0.95);
+  transform-origin: left;
+  margin-top: auto;
+  color: #1B1B1B;
+}
+
+.Casais {
+  color: #591B98;
+  font-weight: bold;
+}
+
+.Familias {
+  font-weight: bold;
+  color: #E5245E;
+}
+
+.Orçamento {
+  font-weight: bold;
+  color: #E95E10;
+}
+
+.final {
+  text-align: center;
+  font-size: 17px;
+}
+
+footer {
+  text-align: center;
+  color: #1B1B1B;
 }
